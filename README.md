@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**tauqeer-rahim03/tauqeer-rahim03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently a student of BCA.
+- 🌱 I’m currently learning web development and would like to explore more such domains.
+- 🤔 I’m looking for help with coding languages and frameworks.
+- 📫 How to reach me: [Instagram](https://www.instagram.com/tauqeer.rahim03?igsh=c3I3dXNqOWkwNGc4)
+                       [LinkedI](https://www.linkedin.com/in/tauqeer-rahim-2222692a8/) 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: very good at being lazy and that somehow makes me do stuff in an easier way
+- 🛠️ Skills:
+    🐍 Python
+    ☕ Java
+    ☕✨ JavaScript
+    🌐 HTML & 🎨 CSS
+    📘 C
+    🔷 C++
