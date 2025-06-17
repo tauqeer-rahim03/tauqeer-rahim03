@@ -5,6 +5,7 @@ I’m an intermediate-level front-end developer currently sharpening my skills b
 
 🚀 Technologies & Skills
 - Front-End: HTML, CSS, JavaScript
+- Frameworks: ReactJs, TailwindCss
 - Programming Languages: Java, Python, C, C++
 - Currently Learning: Advanced front-end development
 
